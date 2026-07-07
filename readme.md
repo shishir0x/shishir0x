@@ -1,12 +1,12 @@
 
 <p align="center">
-  <a href="https://www.shishirpandey085.com.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1766028990/my_design_portfolio_auditor.png" alt="Shishir Pandey ">
+  <a href="https://www.shishirpandey085.com.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1783400576/Game_Developer_yrabdb.png" alt="Shishir Pandey ">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir085&label=Profile%20views&color=0e75b6&style=flat" alt="shishir085" /> </p>
   </a>
 
 </p>
 <h1 align="center">Hi 👋, I'm Shishir Pandey</h1>
-<h3 align="center">An Auditor from Rupandehi, Nepal.</h3>
+<h3 align="center">An Game Dev from Rupandehi, Nepal.</h3>
 <!-- 
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif"> -->
 
@@ -15,7 +15,7 @@
 
 
 
-- 🌱 I’m currently learning **Backend In Django**
+- 🌱 I’m currently learning **Game Dev**
 
 - 📫 How to reach me **shishirpandey085@gmail.com**
 
