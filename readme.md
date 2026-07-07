@@ -43,7 +43,6 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 - I love using Mac after switching from Boring Windows.
 - Fun fact **I have travelled across Oceans.** -->
 
- <a href="#" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1742983807/snake%20gif.gif" alt="Gif">
 
 <!-- 
 ## 📫 Contact
@@ -62,9 +61,9 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 </p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shishirpandey085/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="--manav-gupta--/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shishir0x/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="--manav-gupta--/" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/shishirpandey085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shishirpandey085" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/shishir_ipynb/?utm_source=qr&igshid=ngexmmi2ytkyzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shishir_ipynb/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shishir0x/?utm_source=qr&igshid=ngexmmi2ytkyzg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shishir_ipynb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -98,8 +97,8 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 </a>
  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir085&show_icons=true&locale=en&layout=compact" alt="shishir085" /></p>
 
+ <a href="#" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1742983807/snake%20gif.gif" alt="Gif">
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
