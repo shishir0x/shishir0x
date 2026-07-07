@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I am not a robot, I am the one behind them**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shishir085](https://github.com/shishir085)
+- 👨‍💻 All of my projects are available at [https://github.com/shishir0x](https://github.com/shishir0x)
 
 <!-- - 📄 Know about my experiences (https://shishirpandey085.com.np) -->
 
