@@ -6,7 +6,7 @@
 
 </p>
 <h1 align="center">Hi 👋, I'm Shishir Pandey</h1>
-<h3 align="center">An Game Dev from Rupandehi, Nepal.</h3>
+<h3 align="center">A Game Dev from Rupandehi, Nepal.</h3>
 <!-- 
 <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif"> -->
 
@@ -43,8 +43,8 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 - I love using Mac after switching from Boring Windows.
 - Fun fact **I have travelled across Oceans.** -->
 
+ <a href="#" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1742983807/snake%20gif.gif" alt="Gif">
 
-![logo](https://res.cloudinary.com/damiv8olg/image/upload/v1742983807/snake%20gif.gif)
 <!-- 
 ## 📫 Contact
 
