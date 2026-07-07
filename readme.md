@@ -68,32 +68,22 @@ I'm currently working as a fullstack developer in Nepal, where my journey involv
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="" width="40" height="40"/>
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="" width="40" height="40"/>
 </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<a href="" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="" width="40" height="40"/>
 </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="" width="40" height="40"/>
+</a><a href="" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="" width="40" height="40"/>
+</a><a href="" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/443515/brand-unreal-engine.svg" alt="" width="40" height="40"/>
+</a><a href="" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/473818/unity.svg" alt="" width="40" height="40"/>
+</a><a href="" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="" width="40" height="40"/>
 </a>
  </p>
 
