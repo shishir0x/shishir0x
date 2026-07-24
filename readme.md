@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.shishirpandey085.com.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1783400576/Game_Developer_yrabdb.png" alt="Shishir Pandey ">
+  <a href="https://www.shishirpandey085.com.np/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shishir0x/image/upload/v1784904428/data%20analyst.png" alt="Shishir Pandey ">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir085&label=Profile%20views&color=0e75b6&style=flat" alt="shishir085" /> </p>
   </a>
 
